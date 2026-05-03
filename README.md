@@ -1,3 +1,4 @@
+live URL: npx plugins add vercel/vercel-plugin
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
